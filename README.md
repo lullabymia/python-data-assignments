@@ -15,3 +15,6 @@ https://movie.douban.com/top250?start=0&filter=
 250rows 8 columns
 # License 
 CC 4.0
+# Obstacles and Solutions
+
+# Future Work
