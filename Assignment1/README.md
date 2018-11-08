@@ -1,7 +1,7 @@
 
-#Data Source#
+#Data Source
 This code scrapes the top 250 movies in douban. https://movie.douban.com/top250?start=0&filter=
-#Data Fields#
+#Data Fields
 *names
 *rank
 *comment
@@ -10,10 +10,10 @@ This code scrapes the top 250 movies in douban. https://movie.douban.com/top250?
 *release year
 *country
 *category
-#Data Volume#
+#Data Volume
 250rows 8 columns
-#License#
+#License
 CC 4.0
-#Obstacles and Solutions#
+#Obstacles and Solutions
 
-#Future Work#
+#Future Work
