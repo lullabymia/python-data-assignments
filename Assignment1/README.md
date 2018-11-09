@@ -18,8 +18,8 @@ https://www.fifa.com/worldcup/archive/brazil2014/statistics/players/goal-scored.
 CC 4.0
 # Obstacles and Solutions
 * Having trouble scraping more pages
-solution: define a function and use for loop and format for changing url (assignment1 fixed douban 250.ipynb)
+* solution: define a function and use for loop and format for changing url (assignment1 fixed douban 250.ipynb)
 * Having trouble split the infomation of director, actor and countries
-solution: split the string at the first place (splitinfo douban250.ipynb)
+* solution: split the string at the first place (splitinfo douban250.ipynb)
 # Future Work
 scraping all data for a split version
